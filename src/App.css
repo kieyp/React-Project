@@ -19,7 +19,7 @@
   min-width: 400px;
   margin: 100px;
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .contact-container {
@@ -64,4 +64,8 @@
 
 .contact-form button:hover {
   background-color: #45a049;
+}
+
+.logo1 {
+  margin-top: 10px;
 }
