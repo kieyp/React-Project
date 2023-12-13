@@ -69,3 +69,27 @@
 .logo1 {
   margin-top: 10px;
 }
+
+
+.shop-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.shop-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.error-message {
+  color: red;
+}

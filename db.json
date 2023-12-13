@@ -1,28 +1,84 @@
 {
-  "messages": [
+  "Stock": [
     {
-      "name": "Boniface ",
-      "email": "cheruiyotbony@gmail.com",
-      "message": "ncjkbjklcbcjk",
-      "id": 1
+      "id": 1,
+      "Name": "Gilbeys Gin",
+      "Description": "Perfect Gin for an Evening after work",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493600/20210121_1447091-1-scaled-1_wqg3ho.jpg",
+      "Price":"21"
+    
     },
     {
-      "name": "Boniface",
-      "email": "chwruiyotBony@gmail.com",
-      "message": "xkbnwklbnvlnfh n;iocjf;ojwv",
-      "id": 2
+      "id": 2,
+      "Name": "Casamigos Blanco",
+      "Description": "For a night you will never remember",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493600/CASAMIGOS-BLANCO-375ML-HALF-SIZE-BTL_as36rj.jpg",
+      "Price":"7" 
+    
     },
     {
-      "name": "Collins",
-      "email": "bsjkcbsjkabsc",
-      "message": "xbjkbascjkasc",
-      "id": 3
+      "id": 3,
+      "Name": "Remy Martin Louis XIII",
+      "Description": "For the most special of occassions",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493594/20170517-1830034-1024x683_vlaed3.webp",
+      "Price":"3"
+    
     },
     {
-      "name": "xjkcjkb",
-      "email": "sbjkaxbjk",
-      "message": "bxkaxbjkx",
-      "id": 4
-    }
+      "id": 4,
+      "Name": "Guiness Beer",
+      "Description": "The GentleMan's drink",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493595/1000_F_303997841_11EcGovpw12DUfCVZZXkDJLciyhmcygU_gvdbpe.jpg",
+      "Price":"30"
+    
+    },
+    {
+      "id": 5,
+      "Name": "Jameson Whiskey",
+      "Description": "Give a pot of Gold to the Irish in you",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/Jameson-Irish-Whiskey-1970-1980s-The-Umbrella-Project-online-shop-square-01_ljzjrz.jpg",
+      "Price":"15"
+    
+    },
+    {
+      "id": 6,
+      "Name": "Azul Tequila",
+      "Description": "Crafted to perfection",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/images_p8vtks.jpg",
+      "Price":"5"
+    
+    },
+    {
+      "id": 7,
+      "Name": "Tremana Tequila",
+      "Description": "Goes nicely on the Rocks",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493598/Teremana-Reposado-Tequila_nsjkvi.jpg",
+      "Price":"12"
+    
+    },
+    {
+      "id": 8,
+      "Name": "Black Label",
+      "Description": "if this was a movie it would be the perfect blend between Men In Black And Hangover ",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493599/IMG_0563-scaled_jv3del.jpg",
+      "Price":"17"
+    
+    },
+    {
+      "id": 9,
+      "Name": "Gordons Gin",
+      "Description": "Perfect Gin for an Evening before work. Just kidding, Maybe.",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493596/Gordons-Gin-Front-Of-Bottle-v2-1_xf42ru.jpg",
+      "Price":"21"
+    
+    },
+    {
+      "id": 10,
+      "Name": "Heineken beer",
+      "Description": "There is a reason the sponsor the Chmpions league",
+      "Image": "https://res.cloudinary.com/dqlzpvicb/image/upload/v1702493595/photo-1618885472179-5e474019f2a9_flhfwb.avif",
+      "Price":"43"
+    
+    } 
   ]
 }
