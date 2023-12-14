@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 
 function Shop() {
@@ -23,11 +22,11 @@ function Shop() {
       {data.map(item => (
         <div key={item.id} className="shop-item"> {/* Add the className here */}
 
-        <img src={item.Image} alt={`Image for ${item.Name}`} />
+        <img src={item.Image} />
           <p>Name: {item.Name}</p>
           <p>Description: {item.Description}</p>
 
-          <p>Stock: {item.Stock}</p>
+          <p>Price: {item.Price} Ksh</p>
           {/* Add more details as needed */}
         </div>
       ))}

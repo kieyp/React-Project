@@ -70,24 +70,31 @@
   margin-top: 10px;
 }
 
-
 .shop-container {
-  max-width: 800px;
+  max-width: 2000px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 40px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
+  gap: 150px;
 }
 
 .shop-item {
-  border: 1px solid #ddd;
+  border: 1px solid #ece6e6;
   padding: 10px;
 }
 
 img {
   width: 100%;
   height: auto;
+  /* Add transition for a smooth effect */
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Add a hover effect for the image */
+img:hover {
+  /* Apply a scaling effect on hover */
+  transform: scale(1.1);
 }
 
 .error-message {
